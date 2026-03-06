@@ -1,3 +1,18 @@
-la presente carpeta contiene los archivos correspondientes al proyecto de Francisco Pinto de visualización de datos usando Tableau, Creé y publiqué un dashboard interactivo en Tableau Public para automatizar el análisis semanal de videos en tendencia de YouTube (06–15 junio 2018), segmentando por categoría, región y fecha. El tablero permite identificar qué categorías aparecen con mayor frecuencia (lideran Entertainment y Music) , cómo se distribuyen las tendencias por país (participación relativamente equilibrada entre mercados) y qué categorías destacan en EE. UU. (mayor peso de Music, junto a Entertainment y Comedy) frente a diferencias regionales como mayor presencia de Film & Animation o Gaming en India/Japón . Esto habilita decisiones de marketing basadas en datos para campañas por mercado cultural.
 
-NOTA: para visualizar el dashboard es necesario copiar el enlace que se encuentra en el archivo ENLACE AL DASHBOARD DE TABLEU , y pegarlo en el navegador web.
+# YouTube Trending Dashboard (Tableau Public)
+
+🔗 **Dashboard:** https://public.tableau.com/app/profile/francisco.pinto2384/viz/Proyectosprint12_17610982956680/DashboarddeTendencias
+
+Dashboard en Tableau Public para automatizar el análisis semanal de videos en tendencia de YouTube (categoría, región y fecha). Responde preguntas clave para marketing: categorías más frecuentes, distribución por regiones y categorías más populares en EE. UU. vs otros mercados.
+
+## Key questions answered
+- ¿Qué categorías estuvieron en tendencia con mayor frecuencia?
+- ¿Cómo se distribuyeron las tendencias por región?
+- ¿Qué categorías destacaron en EE. UU. y qué diferencias hubo frente a otros países?
+
+## Deliverables
+- Dashboard interactivo (Tableau Public)
+- Presentación con hallazgos e insights
+
+## Tools
+**Tableau Public**, análisis descriptivo, visualización de datos
