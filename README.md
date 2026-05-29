@@ -133,23 +133,14 @@ In a real business context, this analysis could support content marketing decisi
 ```text
 Proyecto_Dashboard-_Tableau/
 ├── README.md
-├── Proyecto sprint 12.pdf
-├── sprint12_youtube_data.csv
-└── otros archivos del proyecto
-
----
-
-## Notas / Notes
+├── Archivos de datos / Data files
+├── Archivos de presentación o soporte / Presentation or supporting files
+└── Dashboard publicado en Tableau Public / Dashboard published on Tableau Public
+```
 
 🇪🇸
-
-* El proyecto está enfocado en visualización de datos y análisis de negocio.
-* El dashboard busca facilitar la interpretación rápida de tendencias.
-* Este caso fortalece habilidades relacionadas con BI, Tableau y marketing analytics.
+El dashboard principal se encuentra publicado en Tableau Public. Este repositorio funciona como respaldo documental del proyecto, incluyendo la descripción del análisis, archivos de datos y materiales de soporte disponibles.
 
 🇬🇧
-
-* The project is focused on data visualization and business analysis.
-* The dashboard aims to make trend interpretation easier and faster.
-* This case strengthens skills related to BI, Tableau, and marketing analytics.
+The main dashboard is published on Tableau Public. This repository works as documentation support for the project, including the analysis description, data files, and available supporting materials.
 
