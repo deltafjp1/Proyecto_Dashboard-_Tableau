@@ -133,11 +133,9 @@ In a real business context, this analysis could support content marketing decisi
 ```text
 Proyecto_Dashboard-_Tableau/
 ├── README.md
-├── dataset/
-├── dashboard/
-├── presentation/
-└── images/
-```
+├── Proyecto sprint 12.pdf
+├── sprint12_youtube_data.csv
+└── otros archivos del proyecto
 
 ---
 
