@@ -95,9 +95,8 @@ El entregable principal es un dashboard interactivo publicado en Tableau Public.
 🇬🇧
 The main deliverable is an interactive dashboard published on Tableau Public.
 
-**Dashboard:** https://public.tableau.com/app/profile/francisco.pinto2384/viz/Proyectosprint12_17610982956680/DashboarddeTendencias
-**Repositorio / Repository:** https://github.com/deltafjp1/Proyecto_Dashboard-_Tableau
-
+**Dashboard:** [Ver dashboard en Tableau Public](https://public.tableau.com/app/profile/francisco.pinto2384/viz/Proyectosprint12_17610982956680/DashboarddeTendencias)  
+**Repositorio / Repository:** [Ver repositorio en GitHub](https://github.com/deltafjp1/Proyecto_Dashboard-_Tableau)
 ---
 
 ## Insights clave / Key Insights
