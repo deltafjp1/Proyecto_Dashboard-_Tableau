@@ -3,6 +3,8 @@
 🇪🇸 Dashboard interactivo en Tableau para analizar tendencias de videos de YouTube por categoría, región y periodo de tiempo.
 🇬🇧 Interactive Tableau dashboard to analyze YouTube video trends by category, region, and time period.
 
+[Ver dashboard / View dashboard](https://public.tableau.com/app/profile/francisco.pinto2384/viz/Proyectosprint12_17610982956680/DashboarddeTendencias)  
+[Ver repositorio / View repository](https://github.com/deltafjp1/Proyecto_Dashboard-_Tableau)
 ---
 
 ## Descripción / Overview
